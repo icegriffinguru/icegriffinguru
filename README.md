@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### I am Kent Arai, fan of Rust and Elrond network.
+### I am Kent Arai, a fan of Rust and Elrond blockchain.
 
 - 🔭 I’m currently working on Valarswap on Elrond network.
 - 🌱 I’m currently learning Polkadot and Mina.
