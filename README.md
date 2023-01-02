@@ -1,1 +1,1 @@
-❤️ MultiversX(Elrond) ❤️
+❤️ MultiversX (Elrond) ❤️
