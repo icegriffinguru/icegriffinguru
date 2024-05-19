@@ -1,7 +1,7 @@
-❤️ MultiversX (Elrond) ❤️
+❤️ MultiversX (Elrond)
 
-❤️ Massa ❤️
+❤️ Massa
 
-❤️ Solana ❤️
+❤️ Solana
 
-❤️ SUI ❤️
+❤️ SUI
