@@ -7,3 +7,5 @@
 ❤️ SUI
 
 ❤️ Colyseus
+
+❤️ AI
